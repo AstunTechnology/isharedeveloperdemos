@@ -2,11 +2,16 @@
 layout: default
 ---
 
-# Routing
+# QGIS
+
+[qgis.astuntechnology.com](http://qgis.astuntechnology.com){:target="_demo"} (demo02/demo02)
+
+
+## Routing
 
 Routing using Ordnance Survey Open Roads dataset, loaded into PostGIS 2.0, with PgRouting 2.2, using QGIS in the Cloud, connected to the iShare Spatial Data Warehouse.
 
-[qgis.astuntechnology.com](http://qgis.astuntechnology.com){:target="_demo"} (demo02/demo02)
+
 
 Example Functions:
 
