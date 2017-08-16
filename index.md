@@ -6,5 +6,5 @@ layout: default
 
 ## [QGIS](qgis.md){:target="_demo"}
 
-##[Embedded Maps](embedding.md){:target="_demo"}
+## [Embedded Maps](embedding.md){:target="_demo"}
 
