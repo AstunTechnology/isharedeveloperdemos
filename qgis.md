@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# QGIS
+# QGIS in the cloud
 
 [qgis.astuntechnology.com](http://qgis.astuntechnology.com){:target="_demo"} (demo02/demo02)
 
