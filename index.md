@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [iShareMaps and GIS Integration Scenarios](developer.md)
+# [iShareMaps and GIS Integration Scenarios](developer.md){:target="_demo"}
 
-# [Routing](routing.md)
+# [Routing](routing.md){:target="_demo"}
 
