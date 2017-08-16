@@ -1,0 +1,10 @@
+
+header #logo {
+    background-image: url(../images/AstunSmallLogo.png) !important;
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 140px;
+    background-size: 100%;
+    padding-left: 32px;
+    display:block;
+}

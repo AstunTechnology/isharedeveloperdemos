@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <header>
+        <a id = "logo" href="/" title="iShare Devloper Demos"></a>
+        <p>iShare Maps and GIS Developer Demos</p>
+      </header>
+      <section>
+          {{ content }}
+      </section>
+    </div>
+<div class="wrapper foot">
+<footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
