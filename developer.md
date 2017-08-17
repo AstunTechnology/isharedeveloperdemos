@@ -46,7 +46,7 @@ Uses: querying any table in the database by sending one or more filter parameter
 
 * Example: Searching for crimes committed in a particular month
 
-[http://maps.astuntechnology.com/isharelive.web/getdata.aspx?requesttype=json&Type=data&ds=crime.street_accumulated&select=location,month,total_crime&filter=^month^=2012-09'](http://maps.astuntechnology.com/isharelive.web/getdata.aspx?requesttype=json&Type=data&ds=crime.street_accumulated&select=location,month,total_crime&filter=^month^=2012-09'){:target="_demo"}
+[http://maps.astuntechnology.com/isharelive.web/getdata.aspx?requesttype=json&Type=data&ds=crime.street_accumulated&select=location,month,total_crime&filter=^month^=2012-09'](http://maps.astuntechnology.com/isharelive.web/getdata.aspx?requesttype=json&Type=data&ds=crime.street_accumulated&select=location,month,total_crime&filter=^month^='2012-09'){:target="_demo"}
 
 ## Running queries on data in the database
 
