@@ -62,8 +62,6 @@ Uses:
 
 [http://maps.astuntechnology.com/isharelive.web/getdata.aspx?requesttype=pdf&tab=0&enablejs=True&uid=101726&cookieVersion=1](http://maps.astuntechnology.com/isharelive.web/getdata.aspx?requesttype=pdf&tab=0&enablejs=True&uid=101726&cookieVersion=5.6.4.4222){:target="_demo"}
 
-astun\PintDayKnotThus9
-
 
 
 
